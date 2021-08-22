@@ -266,7 +266,7 @@ class RMDP:
         # parameter init
         initT = 1000
         minT = 1
-        iterL = 1000
+        iterL = 10
         eta = 0.95
         k = 1
 
